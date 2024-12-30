@@ -12,5 +12,10 @@ plugin = "json:target/jsonRports/cucmber-report.json",
 tags = ("@DeletePlace"))
 
 public class TestRunner {
+	
+	
+	
+	
+	
 
 }
